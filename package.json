@@ -3,9 +3,9 @@
   "private": false,
   "version": "1.0.1",
   "description": "npm study",
-  "#main": "index.js",
+  "main": "index.js",
   "bin": {
-    "hello-npm": "bin/hello-npm"
+    "hello-npm": "./bin/hello-npm.js"
   },
   "scripts": {
     "test": "test"
@@ -22,5 +22,6 @@
   "bugs": {
     "url": "https://github.com/Yocote0111/npm-study/issues"
   },
-  "homepage": "https://github.com/Yocote0111/npm-study#readme"
+  "homepage": "https://github.com/Yocote0111/npm-study#readme",
+  "dependencies": {}
 }
