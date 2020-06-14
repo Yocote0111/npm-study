@@ -1,10 +1,12 @@
 {
   "name": "@yocote/npm-study",
   "private": false,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm study",
   "#main": "index.js",
-  "bin": { "hello-npm": "bin/hello-npm"},
+  "bin": {
+    "hello-npm": "bin/hello-npm"
+  },
   "scripts": {
     "test": "test"
   },
