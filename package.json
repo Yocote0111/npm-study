@@ -1,0 +1,24 @@
+{
+  "name": "@yocote/npm-study",
+  "private": false,
+  "version": "1.0.0",
+  "description": "npm study",
+  "#main": "index.js",
+  "bin": { "hello-npm": "bin/hello-npm"},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yocote0111/npm-study.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Yokota Masanori <yokota-masanori@zipc.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yocote0111/npm-study/issues"
+  },
+  "homepage": "https://github.com/Yocote0111/npm-study#readme"
+}
